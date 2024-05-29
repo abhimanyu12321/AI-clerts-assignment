@@ -5,7 +5,7 @@ export default function Header() {
     <header className="bg-black text-white p-8">
       <div className="container mx-auto flex-col flex gap-4 md:flex md:flex-row justify-between items-center">
         <div className="text-2xl font-bold">
-          <img src="/logo.svg" alt="logo" />
+          <img src="/logo2.svg" alt="logo" />
         </div>
         <nav className="space-x-4">
           <a href="#" className="hover:text-yellow-500">
