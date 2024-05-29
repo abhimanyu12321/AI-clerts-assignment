@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 // components/ExamDetails.js
 export default function ExamDetails() {
   return (

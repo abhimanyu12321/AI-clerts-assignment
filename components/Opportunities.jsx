@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 // components/Opportunities.js
 export default function Opportunities() {
   return (

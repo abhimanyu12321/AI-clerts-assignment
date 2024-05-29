@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 // components/Footer.js
 export default function Footer() {
   return (

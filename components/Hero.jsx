@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 // components/Hero.js
 export default function Hero() {
   return (
@@ -23,9 +24,9 @@ export default function Hero() {
             cybersecurity and artificial intelligence, a pivotal juncture in our
             era of rapid technological progress. Tailored for budding ethical
             hackers and cybersecurity experts, it offers comprehensive insights
-            into AI's transformative impact on digital offense and defense
+            into AI transformative impact on digital offense and defense
             strategies. Unlike conventional ethical hacking courses, this
-            program harnesses AI's power to enhance cybersecurity approaches. It
+            program harnesses AI power to enhance cybersecurity approaches. It
             caters to tech enthusiasts eager to master the fusion of
             cutting-edge AI methods with ethical hacking practices amidst the
             swiftly evolving digital landscape. The curriculum encompasses four
